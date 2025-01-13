@@ -13,7 +13,8 @@ This repository contains the Marlin firmware configuration for the Anycubic i3 P
 - **Limit Switches:** A single limit switch is used for each axis. This simplifies the setup and configuration while still ensuring precise endstop functionality.
 
 ### Firmware Configuration
-The Marlin configuration files for this setup can be downloaded from the official Marlin GitHub repository. These files have been optimized for the Anycubic i3 Prusa clone with dual Z motors and a single limit switch for each axis.
+The Marlin files for this setup can be downloaded from the official Marlin GitHub repository. 
+The configuration files provided here have been optimized for the Anycubic i3 Prusa clone with dual Z motors and a single limit switch for each axis.
 
 ## Image
 
