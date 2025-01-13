@@ -5,7 +5,11 @@ This repository contains the Marlin firmware configuration for the Anycubic i3 P
 - **Marlin 1.1.x** firmware version
 - **Dual motors** for height (Z-axis)
 - **Single limit switch** for each axis (X, Y, Z)
-- 
+
+### Motivation
+
+I created this configuration because the Anycubic i3 Prusa clone is hard to find nowadays. However, I still use and repair mine, and I wanted to share this to help others who might be in a similar situation. By sharing this, I hope to contribute to the community and keep the printer running for as long as possible
+  
 ## Configuration
 
 ### Hardware Setup
@@ -33,7 +37,7 @@ To use this configuration:
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+Feel free to use this configuration together with Marlin and adhere to the rules provided by them.
 
 ## Acknowledgments
 
