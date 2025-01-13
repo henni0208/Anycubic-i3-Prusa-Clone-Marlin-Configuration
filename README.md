@@ -1,2 +1,40 @@
-# Anycubic_Configuration
-Configuration for the Anycubic I3 (Prusa Clone)
+# Anycubic i3 Prusa Clone - Marlin 1.1.x Configuration
+
+This repository contains the Marlin firmware configuration for the Anycubic i3 Prusa clone with the following features:
+
+- **Marlin 1.1.x** firmware version
+- **Dual motors** for height (Z-axis)
+- **Single limit switch** for each axis (X, Y, Z)
+- 
+## Configuration
+
+### Hardware Setup
+- **Dual Z Motors:** Both Z motors are connected and configured to synchronize the movement of the height axis. This helps maintain a level print bed and provides better Z-axis stability.
+- **Limit Switches:** A single limit switch is used for each axis. This simplifies the setup and configuration while still ensuring precise endstop functionality.
+
+### Firmware Configuration
+The Marlin configuration files for this setup can be downloaded from the official Marlin GitHub repository. These files have been optimized for the Anycubic i3 Prusa clone with dual Z motors and a single limit switch for each axis.
+
+## Image
+
+![Anycubic i3 Prusa Clone](https://testbericht.guru/wp-content/uploads/2016/09/Anycubic-Prusa-i3-3D-Drucker1.jpg)
+
+*Source: [Testbericht Guru](https://testbericht.guru/)*
+
+## Installation
+
+To use this configuration:
+1. Download the Marlin directory.
+2. Open the Marlin.ino in Marlin-1.1.x/Marlin/...
+3. Replace the Configuration.h and Configuration_adv.h
+4. Customize the settings if you want to.
+5. Compile and upload the firmware to your Anycubic i3 Prusa clone using the Arduino IDE or PlatformIO.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- [Anycubic](https://www.anycubic.com) for producing the Anycubic i3 Prusa clone.
+- The Marlin development team for their continuous work on the firmware.
