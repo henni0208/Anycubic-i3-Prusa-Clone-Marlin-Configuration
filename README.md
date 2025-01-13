@@ -1,4 +1,4 @@
-# Anycubic i3 Prusa Clone - Marlin 1.1.x Configuration
+# Anycubic i3 Prusa Clone - Marlin 1.1.x Configuration / Settings
 
 This repository contains the Marlin firmware configuration for the Anycubic i3 Prusa clone with the following features:
 
