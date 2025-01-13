@@ -24,7 +24,8 @@ The configuration files provided here have been optimized for the Anycubic i3 Pr
 ## Installation
 
 To use this configuration:
-1. Download the Marlin directory.
+1. Download the Marlin 1.1.x directory.
+[Marlin 1.1.x on GitHub](https://github.com/MarlinFirmware/Marlin/tree/1.1.x)
 2. Open the `Marlin.ino` file in the `Marlin-1.1.x/Marlin/` directory with the Arduino IDE.
 3. Replace the `Configuration.h` and `Configuration_adv.h` files.
 4. Customize the settings if needed.
