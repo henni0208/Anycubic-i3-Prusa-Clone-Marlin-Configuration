@@ -8,7 +8,7 @@ This repository contains the Marlin firmware configuration for the Anycubic i3 P
 
 ### Motivation
 
-I created this configuration because the Anycubic i3 Prusa clone is hard to find nowadays. However, I still use and repair mine, and I wanted to share this to help others who might be in a similar situation. By sharing this, I hope to contribute to the community and keep the printer running for as long as possible
+I created this configuration because the Anycubic i3 Prusa clone is hard to find nowadays. However, I still use and repair mine, and I wanted to share this to help others who might be in a similar situation. By sharing this, I hope to help those that try desperately searching for configurations related to this printer.
   
 ## Configuration
 
