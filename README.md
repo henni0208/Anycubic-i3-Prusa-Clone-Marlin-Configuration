@@ -26,9 +26,9 @@ The configuration files provided here have been optimized for the Anycubic i3 Pr
 
 To use this configuration:
 1. Download the Marlin directory.
-2. Open the Marlin.ino in Marlin-1.1.x/Marlin/...
-3. Replace the Configuration.h and Configuration_adv.h
-4. Customize the settings if you want to.
+2. Open the `Marlin.ino` file in the `Marlin-1.1.x/Marlin/` directory.
+3. Replace the `Configuration.h` and `Configuration_adv.h` files.
+4. Customize the settings if needed.
 5. Compile and upload the firmware to your Anycubic i3 Prusa clone using the Arduino IDE or PlatformIO.
 
 ## License
