@@ -3,19 +3,15 @@
 This repository contains the Marlin firmware configuration for the Anycubic i3 Prusa clone with the following features:
 
 - **Marlin 1.1.x** firmware version
-- **Dual motors** for height (Z-axis)
-- **Single limit switch** for each axis (X, Y, Z)
+- **Dual Z Motors:** Both Z motors are connected and configured to synchronize the movement of the Z-axis.
+- **Limit Switches:** A single limit switch is used for each axis (X, Y, Z).
+- **Cooling Fan:** Adjustments can be made for specific cooling needs.
+- **Heatbed:** The heatbed is configured for printing with PLA. You may need to adjust the temperature settings based on your filament type and requirements.
 
 ### Motivation
 
 I created this configuration because the Anycubic i3 Prusa clone is hard to find nowadays. However, I still use and repair mine, and I wanted to share this to help others who might be in a similar situation. By sharing this, I hope to help those that try desperately searching for configurations related to this printer.
   
-## Configuration
-
-### Hardware Setup
-- **Dual Z Motors:** Both Z motors are connected and configured to synchronize the movement of the height axis. This helps maintain a level print bed and provides better Z-axis stability.
-- **Limit Switches:** A single limit switch is used for each axis. This simplifies the setup and configuration while still ensuring precise endstop functionality.
-
 ### Firmware Configuration
 The Marlin files for this setup can be downloaded from the official Marlin GitHub repository. 
 The configuration files provided here have been optimized for the Anycubic i3 Prusa clone with dual Z motors and a single limit switch for each axis.
