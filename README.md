@@ -2,7 +2,6 @@
 
 This repository contains the Marlin firmware configuration for the Anycubic i3 Prusa clone with the following features:
 
-- **Marlin 1.1.x** firmware version
 - **Dual Z Motors:** Both Z motors are connected and configured to synchronize the movement of the Z-axis.
 - **Limit Switches:** A single limit switch is used for each axis (X, Y, Z).
 - **Cooling Fan:** Adjustments can be made for specific cooling needs.
