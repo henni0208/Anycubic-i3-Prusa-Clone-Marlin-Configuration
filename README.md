@@ -5,7 +5,6 @@ This repository contains the Marlin firmware configuration for the Anycubic i3 P
 - **Dual Z Motors:** Both Z motors are connected and configured to synchronize the movement of the Z-axis.
 - **Limit Switches:** A single limit switch is used for each axis (X, Y, Z).
 - **Cooling Fan:** Adjustments can be made for specific cooling needs.
-- **Heatbed:** The heatbed is configured for printing with PLA. You may need to adjust the temperature settings based on your filament type and requirements.
 - **Filament Width:** The filament width is set to 1.75 mm. If you want to use a different filament size, ensure you update the configuration accordingly.
 
 
