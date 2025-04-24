@@ -15,12 +15,12 @@ This document lists some of the most common issues I encountered while working w
 ---
 
 ### 2. Incorrect VREF Settings on Stepper Drivers
-- **Symptoms:** Skipped steps, inconsistent movement, layer shifts.
+- **Symptoms:** Skipped steps (sometimes audible as a "click" or "crack" from the motors), inconsistent movement, layer shifts.
 - **Cause:** VREF values too low or too high.
 - **Solution:** 
   - Set VREF to approximately **0.45V** for all axis motors (X, Y, Z).
   - For the extruder motor, set VREF to around **0.8–0.9V**.
-- **Tip:** Use a multimeter to measure and adjust VREF carefully.
+
 
 ---
 
