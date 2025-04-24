@@ -45,9 +45,10 @@ Feel free to use this configuration together with Marlin and adhere to the rules
 
 ## Common Printer Issues
 
-In addition to the firmware configuration files, this repository also includes a `COMMON_ISSUES.md` file.
+In addition to the firmware configuration files, this repository also includes a [COMMON_ISSUES.md](COMMON_ISSUES.md) file.
 
-This file lists frequently encountered **hardware-related problems** with the Anycubic i3 Prusa Clone (e.g., skipped steps, power supply issues, extruder tension) along with explanations and solutions.  
+This file lists frequently encountered **hardware-related problems** with the Anycubic i3 Prusa Clone (e.g., skipped steps, power supply issues, extruder tension) along with explanations and solutions. 
+ 
 It does **not** currently cover firmware installation issues, but focuses instead on common problems encountered during regular use or maintenance of the printer.
 
 Check it out if you're experiencing unreliable prints or mechanical issues — it might save you some time!
