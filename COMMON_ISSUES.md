@@ -18,7 +18,8 @@ This document lists some of the most common issues I encountered while working w
 - **Symptoms:** Skipped steps (sometimes audible as a "click" or "crack" from the motors), inconsistent movement, layer shifts.
 - **Cause:** VREF values too low or too high.
 - **Solution:** 
-  - Set VREF to approximately **0.45V** for all axis motors (X, Y, Z).
+  - Set the VREF (small screw on the stepper driver) to approximately 0.45V for all axis motors (X, Y, Z).
+    - To measure it, place the positive probe on the screw and the negative (ground) probe on the power supply's GND.
   - For the extruder motor, set VREF to around **0.8–0.9V**.
 
 
