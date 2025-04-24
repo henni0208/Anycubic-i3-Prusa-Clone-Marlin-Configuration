@@ -6,7 +6,9 @@ This document lists some of the most common issues I encountered while working w
 
 ### 1. Power Supply Failure
 - **Symptoms:** Sudden shutdowns, random reboots, no heating, or a very dim/low-contrast LCD display.
-- **Cause:** Power supply can't deliver enough current, especially during heating. This can be due to aging, factory defects, or general overload.
+- **Cause:** The power supply is unable to maintain stable voltage under load. This can happen due to:
+  - Voltage dropping from 12V to 10V (or lower) during high current demand.
+  - General aging or internal faults in the power supply.
 - **Solution:** Replace with a reliable 12V power supply. Make sure it provides sufficient amperage for bed and hotend heating (at least 15–20A recommended for most setups).
 
 
